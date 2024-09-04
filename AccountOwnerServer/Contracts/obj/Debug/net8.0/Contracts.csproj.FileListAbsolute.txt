@@ -1,0 +1,11 @@
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\Contracts\obj\Debug\net8.0\ref\Contracts.dll

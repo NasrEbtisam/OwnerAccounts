@@ -1,0 +1,17 @@
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\bin\Debug\net8.0\Repository.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\bin\Debug\net8.0\Repository.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\bin\Debug\net8.0\Entities.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\bin\Debug\net8.0\IRepository.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\bin\Debug\net8.0\IRepository.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\bin\Debug\net8.0\Entities.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\obj\Debug\net8.0\Repository.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\obj\Debug\net8.0\Repository.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\Repository\obj\Debug\net8.0\ref\Repository.dll

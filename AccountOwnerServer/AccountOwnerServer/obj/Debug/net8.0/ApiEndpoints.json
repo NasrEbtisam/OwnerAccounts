@@ -1,0 +1,98 @@
+[
+  {
+    "ContainingType": "AccountOwnerServer.Controllers.OwnerController",
+    "Method": "GetAllOwners",
+    "RelativePath": "api/owner",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AccountOwnerServer.Controllers.OwnerController",
+    "Method": "CreateOwner",
+    "RelativePath": "api/owner",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "owner",
+        "Type": "Entities.DTO.OwnerForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AccountOwnerServer.Controllers.OwnerController",
+    "Method": "GetOwnerById",
+    "RelativePath": "api/owner/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "OwnerById"
+  },
+  {
+    "ContainingType": "AccountOwnerServer.Controllers.OwnerController",
+    "Method": "UpdateOwner",
+    "RelativePath": "api/owner/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "owner",
+        "Type": "Entities.DTO.OwnerForUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AccountOwnerServer.Controllers.OwnerController",
+    "Method": "DeleteOwner",
+    "RelativePath": "api/owner/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AccountOwnerServer.Controllers.OwnerController",
+    "Method": "GetOwnerWithDetails",
+    "RelativePath": "api/owner/{id}/account",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

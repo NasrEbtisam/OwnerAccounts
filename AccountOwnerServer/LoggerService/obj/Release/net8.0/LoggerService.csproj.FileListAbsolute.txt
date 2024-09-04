@@ -1,0 +1,17 @@
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\bin\Release\net8.0\LoggerService.deps.json
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\bin\Release\net8.0\LoggerService.dll
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\bin\Release\net8.0\LoggerService.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\bin\Release\net8.0\Entities.dll
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\bin\Release\net8.0\IRepository.dll
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\bin\Release\net8.0\IRepository.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\bin\Release\net8.0\Entities.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\obj\Release\net8.0\LoggerService.csproj.AssemblyReference.cache
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\obj\Release\net8.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\obj\Release\net8.0\LoggerService.AssemblyInfoInputs.cache
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\obj\Release\net8.0\LoggerService.AssemblyInfo.cs
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\obj\Release\net8.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\obj\Release\net8.0\LoggerSe.E7AEA5A8.Up2Date
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\obj\Release\net8.0\LoggerService.dll
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\obj\Release\net8.0\refint\LoggerService.dll
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\obj\Release\net8.0\LoggerService.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\LoggerService\obj\Release\net8.0\ref\LoggerService.dll

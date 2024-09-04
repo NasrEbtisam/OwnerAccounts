@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=.\\SQLSERVER2022;Database=accountowner;trusted_connection=false;multipleactiveresultsets=true;Integrated Security=true" Microsoft.EntityFrameworkCore.SqlServer  -Project Entities -OutputDir  Models -Force -ContextDir .

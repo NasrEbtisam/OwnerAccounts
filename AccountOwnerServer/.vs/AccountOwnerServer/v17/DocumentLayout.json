@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9800FA-32F4-4048-86E1-80E1C286A26E}|Repository\\Repository.csproj|d:\\developing\\angular.net_projects\\accountownerserver\\repository\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9800FA-32F4-4048-86E1-80E1C286A26E}|Repository\\Repository.csproj|solutionrelative:repository\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9800FA-32F4-4048-86E1-80E1C286A26E}|Repository\\Repository.csproj|d:\\developing\\angular.net_projects\\accountownerserver\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9800FA-32F4-4048-86E1-80E1C286A26E}|Repository\\Repository.csproj|solutionrelative:repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9800FA-32F4-4048-86E1-80E1C286A26E}|Repository\\Repository.csproj|d:\\developing\\angular.net_projects\\accountownerserver\\repository\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9800FA-32F4-4048-86E1-80E1C286A26E}|Repository\\Repository.csproj|solutionrelative:repository\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653F5742-5503-49B8-931E-ADDC6D153200}|Contracts\\IRepository.csproj|d:\\developing\\angular.net_projects\\accountownerserver\\contracts\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653F5742-5503-49B8-931E-ADDC6D153200}|Contracts\\IRepository.csproj|solutionrelative:contracts\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653F5742-5503-49B8-931E-ADDC6D153200}|Contracts\\IRepository.csproj|d:\\developing\\angular.net_projects\\accountownerserver\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653F5742-5503-49B8-931E-ADDC6D153200}|Contracts\\IRepository.csproj|solutionrelative:contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\Repository\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OwnerRepository.cs",
+              "ToolTip": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\Repository\\OwnerRepository.cs",
+              "RelativeToolTip": "Repository\\OwnerRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:04:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryBase.cs",
+              "ToolTip": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Repository\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:04:04.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\Repository\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryWrapper.cs",
+              "ToolTip": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\Repository\\RepositoryWrapper.cs",
+              "RelativeToolTip": "Repository\\RepositoryWrapper.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:03:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositoryWrapper.cs",
+              "DocumentMoniker": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\Contracts\\IRepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Contracts\\IRepositoryWrapper.cs",
+              "ToolTip": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\Contracts\\IRepositoryWrapper.cs",
+              "RelativeToolTip": "Contracts\\IRepositoryWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:03:10.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Contracts\\IRepositoryBase.cs",
+              "ToolTip": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "Contracts\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:02:46.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

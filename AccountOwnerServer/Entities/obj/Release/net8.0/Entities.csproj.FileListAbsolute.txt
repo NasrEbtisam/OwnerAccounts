@@ -1,0 +1,14 @@
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\bin\Release\net8.0\Entities.deps.json
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\bin\Release\net8.0\Entities.runtimeconfig.json
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\bin\Release\net8.0\Entities.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\bin\Release\net8.0\Entities.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\obj\Release\net8.0\Entities.csproj.AssemblyReference.cache
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\obj\Release\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\obj\Release\net8.0\Entities.AssemblyInfoInputs.cache
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\obj\Release\net8.0\Entities.AssemblyInfo.cs
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\obj\Release\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\obj\Release\net8.0\Entities.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\obj\Release\net8.0\refint\Entities.dll
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\obj\Release\net8.0\Entities.pdb
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\obj\Release\net8.0\Entities.genruntimeconfig.cache
+D:\developing\angular.net_projects\AccountOwnerServer\Entities\obj\Release\net8.0\ref\Entities.dll

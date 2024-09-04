@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\AccountOwnerServer\\wwwroot\\chunk-KUUATIOF.js",
+      "PackagePath": "staticwebassets\\chunk-KUUATIOF.js"
+    },
+    {
+      "Id": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\AccountOwnerServer\\wwwroot\\chunk-N3XCJ3YJ.js",
+      "PackagePath": "staticwebassets\\chunk-N3XCJ3YJ.js"
+    },
+    {
+      "Id": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\AccountOwnerServer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\AccountOwnerServer\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\AccountOwnerServer\\wwwroot\\main-WRUG6OMO.js",
+      "PackagePath": "staticwebassets\\main-WRUG6OMO.js"
+    },
+    {
+      "Id": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\AccountOwnerServer\\wwwroot\\polyfills-SCHOHYNV.js",
+      "PackagePath": "staticwebassets\\polyfills-SCHOHYNV.js"
+    },
+    {
+      "Id": "D:\\developing\\angular.net_projects\\AccountOwnerServer\\AccountOwnerServer\\wwwroot\\styles-2FPQ47NB.css",
+      "PackagePath": "staticwebassets\\styles-2FPQ47NB.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AccountOwnerServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AccountOwnerServer.props",
+      "PackagePath": "build\\AccountOwnerServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AccountOwnerServer.props",
+      "PackagePath": "buildMultiTargeting\\AccountOwnerServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AccountOwnerServer.props",
+      "PackagePath": "buildTransitive\\AccountOwnerServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
